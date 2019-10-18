@@ -18,9 +18,9 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name){
-  ["zelda", ...kittens]
+  ["broom", ...kittens]
 }
 
 function PrependKitten(name) {
-  [...kittens, "Kiko"]
+  [...kittens, "broom"]
 }
